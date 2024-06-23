@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+
+ .main{
+    width: 100;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(1.jpg);
+    background-position:center;
+    background-size:cover;
+    height:109vh;
+
+}
+
+/* .Best-Player-Prediction{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+
+
+} */
+
+.Best-Player-Prediction {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 400px;
+}
+
+.Best-Player-Prediction h1{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+
+}
+
+.Best-Player-Prediction p {
+    font-size: 16px;
+    margin: 15px 0;
+
+
+}
+
+.Best-Player-Prediction input {
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    border:0;
+    border-radius: 5px;
+    outline:none;
+}
+
+.Best-Player-Prediction button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px ;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    background-color: #fff;
+
+
+}
+
+.Best-Player-Prediction button:hover {
+    color:blue;
+}
+/* .navbar{
+    width: 1200px;
+    height: 7px;
+    margin: auto;
+}
+
+.icon{
+    width: 200px;
+    float:left;
+    height: 70px;
+
+}
+
+.logo{
+    color:azure;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20;
+    float: left;
+    padding-top: 10px;
+
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+
+}
+
+ul{
+    float:left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+
+ul li a{
+    text-decoration: solid;
+    color: antiquewhite;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+
+
+}
+
+ul li a:hover{
+    color:rgb(9, 38, 226);
+
+    
+}
+
+.search{
+    width: 330px;
+    float:left;
+    margin-left: 270px;
+    
+}
+
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid whitesmoke;
+    margin-top: 13px;
+    color: antiquewhite;
+    border-right: none;
+    font-size: 20px;
+    float:left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+
+}
+
+.btn{
+    width:100%;
+    height:40px;
+    background: whitesmoke;
+    border: 2px solid whitesmoke;
+    margin-top: 13px;
+    color: black;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+} */ */
